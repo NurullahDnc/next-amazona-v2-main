@@ -11,7 +11,6 @@
 | Others         | Cloudinary, Zustand, SWR                               |
 
 ![next amazona v2](/public/app.jpg)
-- [basir.thinkific.com](https://basir.thinkific.com/courses/build-ecommerce-website-like-amazon-by-next-js?coupon=SAVE90)
 - ![Ekran görüntüsü 2024-07-14 002847](https://github.com/user-attachments/assets/ea1d0282-b6ef-4eb3-9627-8f53d71783c6)
 - ![Ekran görüntüsü 2024-07-14 002925](https://github.com/user-attachments/assets/9874fceb-cd3d-4522-b4e1-a994392a477e)
 - ![Ekran görüntüsü 2024-07-14 003454](https://github.com/user-attachments/assets/6cba2882-73d1-45cc-af8b-0410e25acf36)
