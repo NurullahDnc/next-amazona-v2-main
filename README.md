@@ -11,12 +11,6 @@
 | Others         | Cloudinary, Zustand, SWR                               |
 
 ![next amazona v2](/public/app.jpg)
-
-## Resources
-
-- Youtube Video : https://youtu.be/---
-- Demo Website :  https://next-amazona-v2.vercel.app/
-- Source Code   :  https://github.com/basir/next-amazona-v2
 - Full Course: [basir.thinkific.com](https://basir.thinkific.com/courses/build-ecommerce-website-like-amazon-by-next-js?coupon=SAVE90)
 - ![Ekran görüntüsü 2024-07-14 002847](https://github.com/user-attachments/assets/ea1d0282-b6ef-4eb3-9627-8f53d71783c6)
 - ![Ekran görüntüsü 2024-07-14 002925](https://github.com/user-attachments/assets/9874fceb-cd3d-4522-b4e1-a994392a477e)
